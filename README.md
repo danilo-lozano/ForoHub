@@ -19,7 +19,7 @@ ForoHub es una plataforma de foro en línea que permite a los usuarios interactu
 
 ### 1. Clonar el repositorio
 
-Primero, clona el repositorio a tu máquina local (Git Bash): git clone https://github.com/TuUsuario/ForoHub.git
+Clona el repositorio a tu máquina local (Git Bash): git clone https://github.com/TuUsuario/ForoHub.git
 
 
 
