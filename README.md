@@ -49,5 +49,31 @@ ForoHub/
 ├── pom.xml
 └── README.md
 
+ForoHub/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   └── forohub/
+│   │   │   │       ├── ForoHubApplication.java
+│   │   │   │       ├── AuthController.java
+│   │   │   │       ├── TokenService.java
+│   │   │   │       ├── SecurityConfig.java
+│   │   │   │       ├── TopicController.java
+│   │   │   │       ├── TopicService.java
+│   │   │   │       ├── TopicRepository.java
+│   │   │   │       ├── Topic.java
+│   │   │   │       ├── UserLoginDTO.java
+│   │   │   │       ├── UnauthorizedException.java
+│   │   │   │       ├── UserController.java
+│   │   │   │       ├── UserService.java
+│   │   │   │       ├── UserRepository.java
+│   │   │   │       ├── User.java
+│   │   │   │       └── UserDTO.java (si es necesario)
+│   │   │   └── resources/
+│   │   │       └── application.properties
+├── pom.xml
+└── README.md
 
 
